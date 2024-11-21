@@ -1,0 +1,31 @@
+.analytics-container {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .analytics-stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+  
+  .stat {
+    flex: 1 1 200px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
+  }
+  
+  .status-counts ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .status-counts li {
+    padding: 5px 0;
+  }
+  
